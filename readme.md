@@ -8,16 +8,6 @@ This repository illustrates analysis on RSS news feeds using some publicly avail
 
 4. **Creating a DataFrame** - Generate a dataframe with headlines, summaries, entities, RICs, topics, headline_sentiments and summary_sentiments as columns
 
-Some of the libraries/dependancies to download before using this
-
-1. Pandas
-
-2. feedparser
-
-3. requests
-
-4. json
-
-5. textblob
-
-6. re
+ You should first install the requirements by running the following code:
+ ``` pip install -r requirements.txt ```
+ 
